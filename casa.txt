@@ -1,0 +1,3 @@
+aulas/
+restou
+nova alteraçao
