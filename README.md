@@ -9,6 +9,9 @@ Versionamento de código com Git e GitHub da [Digital Innovation One](https://ww
 
 ## 🖥 Resumo das Aulas
 |Aulas|resumos|Repositório Local|
+|------|-------|----------------|
+|Aula 1|[Resumo]()|
+|Aula 2|[Resumo]()|
 
 ```
 git init
